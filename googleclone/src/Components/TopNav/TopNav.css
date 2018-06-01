@@ -1,0 +1,8 @@
+.top-nav-wrapper{
+    width:100%;
+    height:3rem;
+    display:flex;
+    justify-content: center; /*left to right*/
+    align-items:center; /*top to bottom*/
+
+}

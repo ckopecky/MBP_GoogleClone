@@ -1,0 +1,22 @@
+.main-content-wrapper{
+    display:flex;
+    background-color:white;
+    justify-content:center;
+    flex-direction:column;
+    padding:50px 90px;
+
+    border: 1px solid black;
+
+
+}
+.search-area{
+    display:flex;
+    flex-direction:column;
+    justify-content: 
+
+}
+.google-logo{
+    
+  
+    
+}
