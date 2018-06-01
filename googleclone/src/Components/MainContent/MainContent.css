@@ -4,19 +4,48 @@
     justify-content:center;
     flex-direction:column;
     padding:50px 90px;
-
-    border: 1px solid black;
+    width: 978px;
+    margin-bottom:10rem;
 
 
 }
 .search-area{
     display:flex;
     flex-direction:column;
-    justify-content: 
+    align-items:center;
+    
 
 }
 .google-logo{
-    
+    display:flex;
+    justify-content:center;
+    width: 50%;
+    padding:3rem;
   
     
+}
+
+.input-search{
+    padding:.5rem;
+    width:60%;
+    height:3rem;
+    background-origin: padding-box;
+    box-shadow: 6px 0px 8px 0px #C5C5C5;
+}
+.button-container{
+    display:flex;
+    justify-content: center;
+}
+.search-btn{
+    width: 150px;
+    height:40px;
+    padding:.5rem;
+    margin: 4rem .25rem 0rem .25rem;
+    background-color:#F2F2F2;
+    color:#757575;
+    font-weight:600;
+    font-size: 14px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
 }
